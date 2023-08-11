@@ -1,0 +1,19 @@
+li {
+  display: flex;
+  border-radius: 10px;
+  margin: 0 10px 10px 0;
+}
+li:hover {
+  border: 1px solid white;
+}
+
+.user-name {
+  font-weight: 600;
+  margin: 0 5px 0;
+}
+
+img {
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}/*# sourceMappingURL=list-of-users.css.map */

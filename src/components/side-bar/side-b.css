@@ -1,0 +1,36 @@
+.SideBar {
+  width: 20%;
+  background-color: rgb(33, 33, 33);
+  min-height: 100vh;
+  color: white;
+}
+
+header {
+  display: flex;
+}
+
+.option-list {
+  margin: 10px 0 0 10px;
+  border-radius: 50%;
+}
+.option-list:hover {
+  background-color: rgb(40, 35, 35);
+}
+
+.option-list img {
+  width: 30px;
+  padding: 5px;
+}
+
+.search-area textarea {
+  border-radius: 20px;
+  margin: 10px 0 0 0;
+  box-sizing: border-box;
+  color: lightgray;
+  background: #000;
+  border: none;
+  resize: none;
+  width: 90%;
+  height: 40px;
+  padding: 12px;
+}/*# sourceMappingURL=side-b.css.map */
